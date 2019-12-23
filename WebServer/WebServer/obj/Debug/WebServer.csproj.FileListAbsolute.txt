@@ -1,7 +1,0 @@
-C:\Users\oleksandr.papirnyk\Desktop\WebServer\WebServer\bin\Debug\WebServer.exe.config
-C:\Users\oleksandr.papirnyk\Desktop\WebServer\WebServer\bin\Debug\WebServer.exe
-C:\Users\oleksandr.papirnyk\Desktop\WebServer\WebServer\bin\Debug\WebServer.pdb
-C:\Users\oleksandr.papirnyk\Desktop\WebServer\WebServer\obj\Debug\WebServer.csprojAssemblyReference.cache
-C:\Users\oleksandr.papirnyk\Desktop\WebServer\WebServer\obj\Debug\WebServer.exe
-C:\Users\oleksandr.papirnyk\Desktop\WebServer\WebServer\obj\Debug\WebServer.pdb
-C:\Users\oleksandr.papirnyk\Desktop\WebServer\WebServer\bin\Debug\pages\index.html
